@@ -16,9 +16,9 @@ using namespace std;
 int main( void ){
  int N = 1000;
  double S0 = 0.0027,	V0 = 2, D0 = S0*V0,
-		S1 = 0.002,		V1 = 8, D1 = S1*V1,
-		S2 = 0.005,		V2 = 3, D2 = S2*V2,
-		S3 = 0.0222,	V3 = 2, D3 = S3*V3,
+		S1 = 0.002,		V1 = 5, D1 = S1*V1,
+		S2 = 0.005,		V2 = 2, D2 = S2*V2,
+		S3 = 0.0222,	V3 = 1, D3 = S3*V3,
 		S4 = 0.0284,	V4 = 2, D4 = S4*V4,
 		Q0, Q1, Q2, Q3, Q4,
 		R0, R1, R2, R3, R4,
